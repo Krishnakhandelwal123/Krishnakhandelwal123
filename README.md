@@ -8,7 +8,7 @@
 
 - 🔭 **Working on:** AI MedAssistant & GreenHive 🌱
 - 🌱 **Learning:** Advanced React, AI for SaaS 🚀
-- 📫 **Reach me at:** krishnakhandelwal123@gmail.com
+- 📫 **Reach me at:** krishnakhandelwal1231999@gmail.com
 - 🎯 **Goals:** Build AI-powered solutions for real-world impact
 - 🏆 **LeetCode Profile:** [LeetCode](https://leetcode.com/u/krishnakhandelwal018/)
 
@@ -40,10 +40,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnakhandelwal123/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishnakhandelwal123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:krishnakhandelwal1231999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/krishnakhandelwal018/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
-
-<p align="center">⚡ *Fueled by Innovation & Built with Passion!* 🚀</p>
